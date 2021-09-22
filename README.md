@@ -12,6 +12,7 @@
  <img align= "center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
  <img align= "center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  </div>
- Entre essa utilizo ADVPL linguagem própria do sistema PROTHEUS da TOTVS.<br/>
- 
+ Entre essas utilizo ADVPL linguagem própria do sistema PROTHEUS da TOTVS.
+ <br/>
+ <br/>
  Apaixonado por tecnologia, educação e mudar as vidas das pessoas atrás da programação.
